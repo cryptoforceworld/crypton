@@ -1,1 +1,2 @@
-# crypton
+# Crypton
+Token smart-contract
